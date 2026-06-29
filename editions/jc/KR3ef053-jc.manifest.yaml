@@ -1,0 +1,336 @@
+canonical_identifier: bkk:krp/KR3ef053/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef053/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷寒論述義
+  identifiers:
+    krp: KR3ef053
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef053.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ef053_000-jc.yaml, hash: 'sha256:abaeed220346423ed58adb36c32101651a68967f60b52d8751fbb8c638006bb4'}
+  - {seq: 1, filename: KR3ef053_001-jc.yaml, hash: 'sha256:0740b3c0b543c76d5e0f6de356dfddcb2e67f60358e814b3e21eb1e51af9fa4c'}
+  - {seq: 2, filename: KR3ef053_002-jc.yaml, hash: 'sha256:53c3aa878c11943cf03c4fb5e47b5a4516cd7171e4e413cae1f8521f5f4eb3c7'}
+  - {seq: 3, filename: KR3ef053_003-jc.yaml, hash: 'sha256:65b9899172714552ea9db99f7ef92da4c84bc051908f81d94ab912c17efc9c05'}
+  - {seq: 4, filename: KR3ef053_004-jc.yaml, hash: 'sha256:733a7eb3b08d4cbefc3cdb2ea38ac363bf9574ca7b4fbf304c74d589a31e90f1'}
+  - {seq: 5, filename: KR3ef053_005-jc.yaml, hash: 'sha256:20710ef253d1c2fa66b4fc2ef86f8c2eee3d0f7a8f1684acb33ef1ee30f14145'}
+  - {seq: 0, filename: KR3ef053_000-jc.yaml, hash: 'sha256:8b2db1cab21127d99cc637241731fd289dea1a1573c487e51a6e0c762cb1615e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ef053_000-jc.markers.yaml, hash: 'sha256:822393ce616a9ceaa01aa3cee5767b09ac2949b96207bcf148085d6630b8ae4b'}
+  - {seq: 1, role: markers, filename: assets/KR3ef053_001-jc.markers.yaml, hash: 'sha256:2c398e38c2eef9a369d9e0b84c03898d1a061e4d68f2119aace310be2678ba7c'}
+  - {seq: 2, role: markers, filename: assets/KR3ef053_002-jc.markers.yaml, hash: 'sha256:b86cba8598fca6036d540392acf4a659cf7a4fa351083ed52837f135089fcced'}
+  - {seq: 3, role: markers, filename: assets/KR3ef053_003-jc.markers.yaml, hash: 'sha256:a1039737024ec3a9e3661b3cbbb1e94eb142f6afd7294e0128763ccb472427a1'}
+  - {seq: 4, role: markers, filename: assets/KR3ef053_004-jc.markers.yaml, hash: 'sha256:726559ea835392194b6dfed66e05284c52f7dd9eafb7a61b71f8d2773fc6e1ea'}
+  - {seq: 5, role: markers, filename: assets/KR3ef053_005-jc.markers.yaml, hash: 'sha256:f8530089519d05a5b7a29d6091b5d263767cb34158679ac52eb47532326b429c'}
+  - {seq: 0, role: markers, filename: assets/KR3ef053_000-jc.markers.yaml, hash: 'sha256:822393ce616a9ceaa01aa3cee5767b09ac2949b96207bcf148085d6630b8ae4b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ef053_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 332
+  label: 題辭
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef053_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 4353
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef053_jc_001-d3d2
+    span:
+    - body
+    - 2
+    - 1402
+  label: 敘述
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef053_jc_001-d3d3
+    span:
+    - body
+    - 1402
+    - 4353
+  label: 陰陽總述
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef053_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 15559
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ef053_jc_002-d4d2
+    span:
+    - body
+    - 2
+    - 5414
+  label: 述太陽病
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef053_jc_002-d4d3
+    span:
+    - body
+    - 5414
+    - 8114
+  label: 述陽明病
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef053_jc_002-d4d4
+    span:
+    - body
+    - 8114
+    - 10168
+  label: 述太陰病
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef053_jc_002-d4d5
+    span:
+    - body
+    - 10168
+    - 13309
+  label: 述少陰病
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3ef053_jc_002-d4d6
+    span:
+    - body
+    - 13309
+    - 15559
+  label: 述厥陰病
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef053_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 3354
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef053_jc_003-d5d2
+    span:
+    - body
+    - 2
+    - 1687
+  label: 述合病並病
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef053_jc_003-d5d3
+    span:
+    - body
+    - 1687
+    - 3354
+  label: 述溫病風溫
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef053_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 15542
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ef053_jc_004-d6d2
+    span:
+    - body
+    - 2
+    - 684
+  label: 述壞病
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef053_jc_004-d6d3
+    span:
+    - body
+    - 684
+    - 968
+  label: 述兼變諸證
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef053_jc_004-d6d4
+    span:
+    - body
+    - 968
+    - 4931
+  label: 虛乏
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef053_jc_004-d6d5
+    span:
+    - body
+    - 4931
+    - 7190
+  label: 熱鬱
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef053_jc_004-d6d6
+    span:
+    - body
+    - 7190
+    - 9620
+  label: 飲邪搏聚
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef053_jc_004-d6d7
+    span:
+    - body
+    - 9620
+    - 12484
+  label: 飲邪並結
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef053_jc_004-d6d8
+    span:
+    - body
+    - 12484
+    - 13750
+  label: 血熱瘀血
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef053_jc_004-d6d9
+    span:
+    - body
+    - 13750
+    - 14395
+  label: 熱入血室
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef053_jc_004-d6d10
+    span:
+    - body
+    - 14395
+    - 14968
+  label: 風濕
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3ef053_jc_004-d6d11
+    span:
+    - body
+    - 14968
+    - 15542
+  label: 濕熱寒濕
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef053_jc_005-d7.h1s1
+    span:
+    - body
+    - 0
+    - 8398
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ef053_jc_005-d7d2
+    span:
+    - body
+    - 2
+    - 1391
+  label: 述霍亂
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef053_jc_005-d7d3
+    span:
+    - body
+    - 1391
+    - 2331
+  label: 述差後勞復
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3ef053_jc_005-d7d4
+    span:
+    - body
+    - 2331
+    - 8398
+  label: 附答問
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef053_jc_000-d8.h1s1
+    span:
+    - body
+    - 0
+    - 1295
+  label: 傷寒論述義補
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef053_jc_000-d9.h1s1
+    span:
+    - body
+    - 1295
+    - 1929
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:7eef659a7e520a70332a2ad4c64cae9794befdffe7e8b8cd64c9891c0b3d193a
